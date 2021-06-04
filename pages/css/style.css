@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.assignment-completion-details{
+  background-color: #ffffff;
+}
+.tcp-details{
+  margin: 3px;
+  font-size: 15px;
+}
+.tcp-details p{
+  padding-left: 10px;
+}
+.assignment-summary{
+  padding: 10px;
+  margin:2px;
+}
+.assignment-completion-details h3,.notifications h3{
+  font-weight: bold;
+  padding: 8px;
+}
+.total-assignments{
+  font-size:20px;
+  font-family: bold;
+}
+.profile-img{
+  border:1px;
+  border-style: solid;
+  border-radius: 100px;
+  border-color:  grey;
+  margin:10px;
+}
+.profile-details{
+  font-size:18px;
+}

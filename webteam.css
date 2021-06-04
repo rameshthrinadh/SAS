@@ -1,0 +1,50 @@
+.webteam-social-links{
+  color: black;
+  width:100%;
+  font-size: 22px;
+}
+.webteam-social-links a
+{
+  border-color: black;
+  padding: 5px;
+  width: 38px;
+  border: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  margin: 5px;
+}
+.webteam-social-links a:hover
+{
+  border-color: black;
+  color: white !important;
+  background-color:black;
+  border-radius: 6px;
+  font-size: 24px;
+}
+.webteam-profile-card{
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+}
+.webteam-profile-img{
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  border-style: solid;
+  border-width: 1px;
+  border-color:  grey;
+  margin-top: 10px;
+}
+.webteam-head{
+  font-size: 30px;
+  font-weight: bold;
+}
+.webteam-profile-name{
+  font-size: 24px;
+  font-weight: bold;
+}
+.webteam-profile-des,.webteam-profile-dept{
+  color: grey;
+  font-size: 18px;
+}

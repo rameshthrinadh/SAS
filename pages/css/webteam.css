@@ -1,0 +1,41 @@
+.web-team-social-links{
+  color: black;
+  font-size: 22px;
+}
+.web-team-social-links i
+{
+  border-color: black;
+  padding: 5px;
+  border: 2px;
+  border-style: solid;
+  border-radius: 4px;
+  margin: 5px;
+}
+.web-team-social-links i:hover
+{
+  border-color: black;
+  color: white !important;
+  background-color:black;
+  border-radius: 6px;
+  font-size: 24px;
+}
+.webteam-profile{
+  background-color:skyblue;
+  text-align: center;
+  border:2px;
+  border-style: solid;
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 8px;
+}
+.webteam-profile-img{
+  width: 100%;
+  border-radius: 15px;
+  border:2px;
+  border-style: solid;
+}
+.web-team-name{
+  font-size: 32px;
+  font-weight: bold;
+}
